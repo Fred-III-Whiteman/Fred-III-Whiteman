@@ -1,13 +1,13 @@
 ### Hi there 👋
 My name is Fred and im currently a student at NAIT, in the DMIT computer Software development program.
 
-## 🌱 I’m currently learning:
+# 🌱 I’m currently learning:
 - Java
 - Flutter
 - SQL
 - ASP.NET
 
-## 📫 How to reach me:
+# 📫 How to reach me:
 Email: FWhiteman1@nait.ca
 <!--
 **Fred-III-Whiteman/Fred-III-Whiteman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
