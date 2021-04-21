@@ -1,10 +1,10 @@
 ### Hi there 👋
 My name is Fred and im currently a student at NAIT, in the DMIT computer Software development program.
 
-## 🌱 I’m currently learning:
+### 🌱 I’m currently learning:
 - Lua
 
-## 📈 GitHub Statistics:
+### 📈 GitHub Statistics:
 
 <a href="https://github.com/Fred-III-Whiteman/Fred-III-Whiteman">
    <img align="Center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fred-III-Whiteman&layout=compact&hide=html&count_private=true&theme=dark" />
@@ -14,7 +14,7 @@ My name is Fred and im currently a student at NAIT, in the DMIT computer Softwar
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Fred-III-Whiteman&show_icons=true&count_private=true&theme=dark" alt="Fred Whiteman's GitHub Stats" />
 </a>
 
-## 🛠️ Languages I Know:
+### 🛠️ Languages I Know:
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logoColor=blue&color=grey)
 ![](https://img.shields.io/badge/C-Sharp-informational?style=flat&logo=C-Sharp&logoColor=blueviolet&color=grey)
 ![](https://img.shields.io/badge/HTML-5-informational?style=flat&logo=HTML5&logoColor=orange&color=grey)
@@ -24,7 +24,7 @@ My name is Fred and im currently a student at NAIT, in the DMIT computer Softwar
 ![](https://img.shields.io/badge/Flutter-informational?style=flat&logo=flutter&logoColor=blue&color=grey)
 
 
-## 📫 How to reach me:
+### 📫 How to reach me:
 Email: FWhiteman1@nait.ca
 <!--
 **Fred-III-Whiteman/Fred-III-Whiteman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
