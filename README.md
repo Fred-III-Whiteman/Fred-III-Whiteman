@@ -7,7 +7,7 @@ My name is Fred and im currently a student at NAIT, in the DMIT computer Softwar
 ### 📈 GitHub Statistics:
 
 <a href="https://github.com/Fred-III-Whiteman/Fred-III-Whiteman">
-   <img align="Center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fred-III-Whiteman&layout=compact&hide=html&count_private=true&theme=dark" />
+   <img align="Center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fred-III-Whiteman&layout=compact&count_private=true&theme=dark" />
  </a>
 
 <a href="https://github.com/Fred-III-Whiteman/Fred-III-Whiteman">
