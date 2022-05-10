@@ -1,8 +1,5 @@
 ### Hi there 👋
-My name is Fred and im currently a student at NAIT, in the DMIT computer Software development program.
-
-### 🌱 I’m currently learning:
-- Lua
+My name is Fred and im a NAIT graduate for DMIT computer Software development program.
 
 ### 📈 GitHub Statistics:
 
