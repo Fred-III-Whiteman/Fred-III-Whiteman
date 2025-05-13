@@ -22,7 +22,7 @@ My name is Fred and im a NAIT graduate for DMIT computer Software development pr
 
 
 ### 📫 How to reach me:
-Email: FWhiteman1@nait.ca
+Email: Fred3Whiteman@gmail.com
 <!--
 **Fred-III-Whiteman/Fred-III-Whiteman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
